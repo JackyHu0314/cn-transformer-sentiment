@@ -7,3 +7,4 @@ outputs/
 .cache/
 models/
 data/waimai_10k_*.csv
+AGENTS.md
